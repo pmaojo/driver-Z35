@@ -1,0 +1,5 @@
+vendor/*
+!vendor/.gitkeep
+docs/analysis/
+*.o
+build/
